@@ -1,0 +1,8 @@
+{
+  "name": "apex-practice",
+  "description": "sample project for manage lambda with apex.",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::888447397082:role/apex-practice_lambda_function",
+  "environment": {}
+}
