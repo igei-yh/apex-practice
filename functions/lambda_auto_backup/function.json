@@ -1,0 +1,7 @@
+{
+  "description" : "create, delete image of target instances from lambda",
+  "runtime" : "python",
+  "memory" : 128,
+  "timeout" : 60,
+  "role" : "arn:aws:iam::888447397082:role/AllowLambdaEC2ActionRole"
+}
