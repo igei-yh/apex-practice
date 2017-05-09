@@ -1,4 +1,5 @@
 {
+  "name" : "lambda_auto_backup",
   "description" : "create, delete image of target instances from lambda",
   "runtime" : "python",
   "memory" : 128,
