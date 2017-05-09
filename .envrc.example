@@ -1,0 +1,10 @@
+# python virtual environment
+layout python
+
+# aws credentials
+export AWS_ACCESS_KEY="<own_aws_access_key_id>"
+export AWS_SECRET_KEY="<own_aws_secret_access_key>"
+export AWS_REGION="<own_home_aws_region>"
+export AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY
+export AWS_SECRET_ACCESS_KEY=$AWS_SECRET_KEY
+export AWS_DEFAULT_REGION=$AWS_REGION
